@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Multilayer Perceptron Model with Three-Character Context</title>
-</head>
-<body>
-    <h1>Multilayer Perceptron Model with Three-Character Context</h1>
+<h1>Multilayer Perceptron Model with Three-Character Context</h1>
     <p>
         This repository contains a modified version of the traditional bigram language model, implemented as a 
         multilayer perceptron (MLP). Unlike standard bigram models that rely solely on the previous character 
@@ -23,5 +15,3 @@
         Explore the notebook to dive into the architecture and see how these enhancements contribute 
         to the model’s performance.
     </p>
-</body>
-</html>
