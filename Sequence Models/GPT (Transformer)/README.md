@@ -1,7 +1,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Transformer Decoder Model</title>
+  Transformer Decoder Model
 </head>
 <body>
   <p>
